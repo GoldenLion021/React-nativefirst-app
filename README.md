@@ -16,3 +16,14 @@ Android => Java
 iOS => Swift
 
 But with the introduction of react-native, we are required to write the code only once and it will run for both platforms.
+
+Lots of companies uses react-native for their mobile application development, cause it is easier to maintain one code base rather than two seprate code bases.
+
+some examples of apps made with react native are:-
+
+         Facebook
+         Instagram
+         Testla mobile app
+         Airbnb
+
+         and many more
